@@ -1,5 +1,5 @@
 @echo off
 echo.
-echo Este es un comentario
+echo Me gustaria aprender mas sobre EOF ya que no me quedo muy claro 
 echo.
 pause

@@ -1,5 +1,5 @@
 @echo off
 echo.
-echo Numero de serie:18330455
+echo Este es un comentario
 echo.
 pause

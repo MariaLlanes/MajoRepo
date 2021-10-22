@@ -1,0 +1,5 @@
+@echo off
+echo.
+echo Numero de serie:18330455
+echo.
+pause
